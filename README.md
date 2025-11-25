@@ -90,7 +90,6 @@ cd [NAMA_FOLDER_PROYEK]
 
 Aplikasi frontend akan berjalan di `http://localhost:3000` dan backend berjalan di `http://localhost:5000`.
 
-```markdown
 ### Tampilan Antarmuka
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/55ca8622-21c7-40d6-9a77-4ac8c68ca08f" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee42a793-4764-4e60-8fcf-19e9550bdd7c" />
