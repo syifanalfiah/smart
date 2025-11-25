@@ -100,4 +100,3 @@ Aplikasi frontend akan berjalan di `http://localhost:3000` dan backend berjalan 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/78e41abb-ef0c-47a8-8f41-d3fe8adc5f6a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6425a2d6-d02d-4cf1-9d5a-4b614a10c247" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dae54393-534e-433b-84ec-434e5a95b84c" />
-.png)
