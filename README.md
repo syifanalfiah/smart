@@ -1,5 +1,9 @@
 # Proyek: Student Activity Analyzer - Smart Activity
 
+| Nama                        | NRP        |
+| --------------------------- | ---------- |
+| Syifa Nurul Alfiah          | 5027241019 |
+
 **Smart Activity** adalah aplikasi web berbasis React yang dirancang untuk membantu mahasiswa mengelola, mencatat, dan menganalisis kegiatan harian mereka. Aplikasi ini berfungsi sebagai asisten pribadi yang tidak hanya mencatat jadwal, tetapi juga memberikan peringatan dini terhadap potensi jadwal yang **bertabrakan (overlap)** atau **tidak efisien** (padat tanpa istirahat yang cukup), mencegah kelelahan (burnout) akademik.
 
 ## Masalah yang Diselesaikan (Problem Statement)
